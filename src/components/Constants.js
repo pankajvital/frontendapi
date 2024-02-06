@@ -9,7 +9,7 @@ const adminpanelhome= 'admin'; //// home backend url
 
 ///// backend url
 
-const urlbc = 'http://localhost:8000'; // local work
+const urlbc = 'https://backendapi-fbysircwg-pankajvitals-projects.vercel.app/'; // local work
 
 // const urlbc = 'https://fligtway.com'; // on live work
 
