@@ -131,7 +131,7 @@ const Contact = () => {
             <div className="col-lg-8">
               <div className="contact_left_top_heading">
               
-                <h3>Need help?</h3>
+                <h3>Need help checck?</h3>
                 <p>
                 We would be happy to hear from you, Please fill in the form below or mail us your requirements
                 </p>
